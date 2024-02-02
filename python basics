@@ -1,0 +1,21 @@
+#conversion of variable
+a=5
+a=6
+print(a)
+#conversion of type and variable value
+a=9.8
+print(a)
+# type() function used to know type
+a=1
+b=2.3
+c=True
+d='om'
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+#.py file is a module and it contain code and 3 reusable element 1.variable 2.functions 3.class
+#import to import a any module or file
+#we import file om to file python
+import om
+print(om.x)
